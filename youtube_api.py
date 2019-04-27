@@ -8,7 +8,7 @@ movies = 'bangla+movies'
 talkshow ='bangla+talk+show'
 crime ='bangla+crime'
 
-save_to_file = open('youtube_magazine.txt','r+',buffering=-1)
+save_to_file = open('Collected Data/youtube_magazine.txt','r+',buffering=-1)
 
 i=0
 pagetoken = ''
